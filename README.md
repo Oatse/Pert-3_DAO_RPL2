@@ -1,0 +1,1 @@
+Pertemuan 3 RPL adalah proyek berbasis Java yang dikembangkan menggunakan Maven, mengimplementasikan arsitektur MVC (Model-View-Controller). Aplikasi ini fokus pada pengelolaan data mahasiswa melalui komponen controller.
